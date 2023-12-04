@@ -7,7 +7,7 @@
 - eslint
 - prettier
 - stylelint
-- cardbox.helpms
+
 
 #### Запуск проекта:
 
