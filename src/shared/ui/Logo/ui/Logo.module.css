@@ -1,0 +1,11 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.logo__text {
+  color: #0d4cd3;
+  font-family: LatoBold, sans-serif;
+  font-size: 30px;
+}

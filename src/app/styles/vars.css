@@ -1,0 +1,13 @@
+:root {
+  /* background-color */
+  --background-color-select: #f5f7fa;
+  --background-color-main: #fafcff;
+
+  /* footer */
+  --background-color-footer: #e4ecfd;
+  --text-color-footer: #66727f;
+
+  /* nav-link */
+  --nav-link-color-active: #0b1f33;
+  --nav-link-color-pending: #0d4cd3;
+}

@@ -1,0 +1,30 @@
+.navigation {
+  display: flex;
+  align-items: center;
+}
+
+.navigation__links {
+  position: relative;
+  display: flex;
+}
+
+.navigation__link__section {
+  position: relative;
+  padding: 0 16px;
+}
+
+a {
+  text-decoration: none;
+}
+
+a.pending {
+  color: var(--nav-link-color-pending);
+}
+
+a:visited {
+  color: var(--nav-link-color-pending);
+}
+
+a.active {
+  color: var(--nav-link-color-active);
+}
